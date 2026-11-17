@@ -1,5 +1,5 @@
 context:
-  version: "2.0.1"
+  version: "2.1.0"
 
 package:
   name: zet
@@ -7,10 +7,10 @@ package:
 
 source:
   url: https://github.com/yarrow/zet/archive/v${{ version }}.tar.gz
-  sha256: a6f431927c16b22516e78a9ec7864d99e2676abae3acb46101df1c287e16f267
+  sha256: 678e569b4506c7099a4d99e75d420cf3b852ae3b5f19cd83e1a0d37be815a483
 
 build:
-  number: 1
+  number: 0
 
 requirements:
   build:
